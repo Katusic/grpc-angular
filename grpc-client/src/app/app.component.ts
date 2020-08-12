@@ -16,7 +16,7 @@ export class AppComponent {
   ngOnInit(): void {
 
   }
-
+  //
   onSend(): void {
     const client = new GreeterClient('https://localhost:5001');
     const req = new HelloRequest();
