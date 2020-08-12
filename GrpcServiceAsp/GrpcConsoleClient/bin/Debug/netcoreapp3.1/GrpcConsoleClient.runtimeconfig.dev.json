@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\stipe.katusic\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\stipe.katusic\\.nuget\\packages"
+    ]
+  }
+}
